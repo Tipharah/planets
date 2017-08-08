@@ -3,3 +3,4 @@ results/plots/
 *.data
 !final.data
 results/logs/log_0*.*
+!results/logs/log_01.*
